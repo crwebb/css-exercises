@@ -1,0 +1,14 @@
+/*.container .text {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 247, 0);
+    font-size: 20px;
+}
+*/
+
+div .text {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 247, 0);
+    font-size: 20px;
+}
